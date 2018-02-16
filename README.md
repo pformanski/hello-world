@@ -1,5 +1,5 @@
 # hello-world
-just testing functionality - ignore
+just testing functionality - ig nore
 
 so, this is some modification text for the demo
 
